@@ -4,26 +4,26 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Dilshad",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Pulkit",
+    text: "The coffee here is absolutely amazing! Every sip is like a hug in a cup – bold, rich, and perfectly brewed. It’s my go-to spot for a daily pick-me-up!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
-    name: "Sabir ali",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Sam",
+    text: "I’ve tried coffee from countless places,but nothing compares to the smooth and velvety texture here.The quality is unmatched.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
-    name: "Dipankar kumar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Raman",
+    text: "This coffee has completely changed my mornings. The aroma alone wakes me up, and the balanced flavor keeps me energized throughout the day. Simply the best!",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
-    name: "Satya Narayan",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    name: "Gagan",
+    text: "If you’re a true coffee lover, this is the place for you. Their blends are heavenly, and every cup is crafted to perfection. I can’t get enough!",
     img: "https://picsum.photos/103/103",
   },
 ];

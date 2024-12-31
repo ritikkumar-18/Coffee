@@ -6,7 +6,7 @@ const ServicesData = [
     img: Img2,
     name: "Espresso",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet.",
+      "Espresso is more than just a drink—it's a bold and concentrated essence of coffee that has become the foundation of countless beloved beverages. Originating in Italy, espresso is prepared by forcing hot water through finely-ground coffee beans under high pressure, resulting in a rich, aromatic shot with a velvety crema on top.",
     aosDelay: "100",
   },
   {
@@ -14,7 +14,7 @@ const ServicesData = [
     img: Img2,
     name: "Americano",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "The Americano is a classic coffee beverage that embodies simplicity, sophistication, and versatility. Made by diluting a shot of espresso with hot water, the Americano offers a milder flavor profile while retaining the rich undertones of espresso.",
     aosDelay: "300",
   },
   {
@@ -22,7 +22,7 @@ const ServicesData = [
     img: Img2,
     name: "Cappuccino",
     description:
-      "Lorem ipsum dolor sit amet ipsum dolor sit ametipsum dolor sit amet ipsum dolor sit amet",
+      "The cappuccino is one of the most iconic and beloved coffee beverages, celebrated for its rich flavor, velvety texture, and balanced layers of espresso, steamed milk, and frothed milk. Originating in Italy, this classic drink has become a global favorite, embodying both sophistication and comfort in every cup.",
     aosDelay: "500",
   },
 ];

@@ -42,9 +42,9 @@ const Banner = () => {
                   data-aos="fade-up"
                   className="text-sm text-gray-500 tracking-wide leading-5"
                 >
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                  Premium blended coffee is the pinnacle of craftsmanship in the world of coffee. It combines beans from various origins, each selected for its unique flavor profile, to create a harmonious and balanced cup. Unlike single-origin coffee, which highlights the distinct characteristics of beans from a specific region, a premium blend is designed to deliver a consistent and superior taste experience.
+
+
                 </p>
 
                 <div className="grid grid-cols-2 gap-6">
